@@ -1,0 +1,3 @@
+pip install opencv-python-headless
+pip install websocket-server
+pip install websocket-client
